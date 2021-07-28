@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding?
 - 🌱 I’m currently learning python ...again.
 - 💞️ I’m looking to collaborate a hackathon (for newbies)
-- 📫 How to reach me: speak my name three times to summon me 
+- 📫 How to reach me: speak my name three times and ye shall summon me 
 
 <!---
 WatermelonDJ/WatermelonDJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
